@@ -1,1 +1,3 @@
 All NMT related experiments are conducted in the Lisa Surfsara environment to enable GPU usage. The job and corresponding configuration files used to perform the baseline, bi-source, and ablation study experiments presented in the thesis are gathered here, sorted per child language. Additionally, the prediction files obtained when testing the obtained machine translation models are provided.
+
+When aiming at repeating these experiments on the Lisa Surfsara platform, all job files should be put in the home directiory, conforming the path directories used in the files. The configuration files should be stored in the home directory in a separate directory "config". 
