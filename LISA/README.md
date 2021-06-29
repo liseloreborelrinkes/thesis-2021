@@ -1,1 +1,3 @@
+#NMT experiments
 
+All NMT related experiments are conducted in the Lisa Surfsara environment to enable GPU usage. The job and corresponding configuration files used to perform the baseline, bi-source, and ablation study experiments presented in the thesis are gathered here, sorted per child language. Additionally, the prediction files obtained when testing the obtained machine translation models are provided.
